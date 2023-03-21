@@ -9,4 +9,7 @@ HTML5 CSS3
 
 BANA BU PROJEDE DESTEĞİ İÇİN MEHMET CAN SEYHAN'A (isveckrali) TEŞEKKÜR EDERİM....
 
-! [](adidas.gif)
+
+<h2>Ekran Gifi<h2>
+
+![](adidas.gif)
